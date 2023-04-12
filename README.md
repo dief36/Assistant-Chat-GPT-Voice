@@ -1,5 +1,5 @@
 
-# Assistant-GPT-voice
+# Assistant-Chat-GPT-voice
 
 Assistant-GPT voice serves as a virtual assistant. Allows users to interact that can assist with a variety of tasks, such as answering questions, providing recommendations, or generating text.
 
